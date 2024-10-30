@@ -3,7 +3,7 @@ authors:
 - family-names: "Bottigliero"
   given-names: "Joe"
   orcid: "https://orcid.org/0009-0009-9663-0050"
-title: "Template Data Portal"
+title: "@with-gateways/globus-serverless-portal"
 version: 1.3.0
-date-released: 2024-03-14
-url: "https://github.com/globus/template-data-portal"
+date-released: 2024-10-30
+url: "https://github.com/with-gateways/globus-serverless-portal"
